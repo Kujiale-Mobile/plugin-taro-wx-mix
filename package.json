@@ -1,0 +1,17 @@
+{
+  "name": "plugin-taro-wx-mix",
+  "version": "1.0.1",
+  "description": "用于 Taro 原生混合开发的 Taro 插件",
+  "main": "index.js",
+  "repository": {
+    "url": "git@gitlab.qunhequnhe.com:mina/base/plugin-taro-wx-mix.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "publishConfig": {
+    "registry": "http://registry.npmjs.org"
+  },
+  "author": "kujiale",
+  "license": "ISC"
+}
